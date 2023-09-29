@@ -1,3 +1,5 @@
+#SCT211-0698/2022
+#NIXON MWANGI GITONGA 
 def add(x, y):
     return x + y
 
